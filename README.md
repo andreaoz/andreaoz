@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there!
 
 <!--
 **andreaoz/andreaoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I am a web developer with a degree in biomedical engineering and previous experience in teaching. My go-to tools are React for the frontend and Django for the backend, and I really enjoy project design. I am motivated by continuous learning and the opportunity to contribute to projects with real impact.
+
+
